@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1>This is Home Page </h1>
+<h2>I love Java</h2>
+<h3> My Name is Samyak Jain</h3>
 </body>
 </html>
